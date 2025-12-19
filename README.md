@@ -1,2 +1,2 @@
-# grade-distribution-analyzer-project
+Delete # grade-distribution-analyzer-project
 Good day! this is the simple code that i made. This program collects grades, calculates basic statistics, and counts how many students fall into each grade category.
